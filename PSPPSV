@@ -1,0 +1,19 @@
+Controller for PSP Emu for bluetooth/adhoc to computer (Runs best in PS Vita)
+
+/_\ = Y
+|_| = X
+ O  = B
+ X  = A
+
+Start + Select = Same
+
+Left Analog = Same (Can be set to Dpad)
+
+Dpad = Same (Can be set to L2 + R2 or Analog)
+
+L + R = Same
+
+L2 + R2 = Dpad
+
+Right Analog = (Right Analog in Vita set as Dpad), Hold Select for 2 sec to switch
+ becomes Dpad or analog
